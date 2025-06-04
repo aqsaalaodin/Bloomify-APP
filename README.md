@@ -1,16 +1,3 @@
 # bloomify_fyp
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bloomify is a personal development and productivity app built with Flutter, designed to help users stay focused on their growth journey. The app allows users to create and manage daily tasks, track their progress, and gain insights into their personal achievements over time. With features like a customizable task system, a daily calendar view, progress analytics, and integration with Firebase for secure storage and authentication (Google and Facebook login supported), Bloomify offers a seamless and motivating experience. Whether you're working on building new habits, completing daily goals, or simply staying organized, Bloomify empowers you to bloom into your best self—one day at a time.
